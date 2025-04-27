@@ -74,4 +74,4 @@ Architecture: MVC
 6. Create a `.env` file and set the environment variables.
 7. Run the `db.sql` file to create the database and the related tables using the command `source <path_to_sql_file>;`
 8. Make sure that the database is created successfully.
-9. Now run the application using `npm run start`
+9. Now run the application using `npm run start`  
